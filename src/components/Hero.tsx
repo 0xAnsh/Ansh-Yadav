@@ -55,7 +55,7 @@ export default function Hero() {
                     </div>
 
                     <div className="flex items-center justify-center gap-6 text-gray-400 pointer-events-auto">
-                        <Link href="https://github.com/AnshY0x" target="_blank" className="hover:text-white transition-colors hover:scale-110 transform">
+                        <Link href="https://github.com/0xAnsh" target="_blank" className="hover:text-white transition-colors hover:scale-110 transform">
                             <Github size={24} />
                         </Link>
                         <Link href="https://www.linkedin.com/in/ansh-yadav-3a74b4218/" target="_blank" className="hover:text-white transition-colors hover:scale-110 transform">
