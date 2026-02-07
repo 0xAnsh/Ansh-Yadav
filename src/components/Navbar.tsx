@@ -89,8 +89,8 @@ export default function Navbar() {
 
                 {/* Social Actions */}
                 <div className="flex items-center gap-2 hidden sm:flex">
-                    <Link href="https://github.com/AnshY0x" target="_blank" className="p-2.5 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all">
-                        <Github size={18} />
+                    <Link href="https://github.com/0xAnsh" target="_blank" className="hover:text-white transition-colors hover:scale-110 transform">
+                        <Github size={24} />
                     </Link>
                     <Link href="https://x.com/AnshY0x" target="_blank" className="p-2.5 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all">
                         <Twitter size={18} />
